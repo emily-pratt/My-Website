@@ -1,0 +1,8 @@
+---
+title: "About Me"
+---
+
+Hi! My name is Emily Pratt and I'm a master's student studying biochemistry at the University of New Hampshire. In Dr. Walker's lab, I'm working on a drug combination to treat triple negative breast cancer, and this fall I'm applying for PhD programs in Biomedical Science! I grew up in Beverly, Massachusetts which is a little less than an hour from UNH. I played soccer through high school, and now I play on my lab's intramural team here on campus! Outside of school, I love to run and on the weekends I travel to see my younger brother's college lacrosse games. 
+
+Here is a photo of me and my mom from my undergraduate graduation this past May. 
+![Me and My Mom](docs/Website_Image.jpg)

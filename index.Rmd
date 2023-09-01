@@ -1,0 +1,6 @@
+---
+title: "Emily Pratt"
+---
+
+Hello!
+This is a website created in my data science class. Navigate to the About tab to learn more about me! 
